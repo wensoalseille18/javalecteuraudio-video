@@ -1,0 +1,16 @@
+Bonsoir M. Jaures !
+
+Nous sommes six (06) ingénieurs à l'École Supérieure d'Infotronique d'Haïti (ESIH), L3 qui constituent un groupe appelé Authentique.
+
+Le groupe dispose de :
+
+1) Alseille Wenso
+2) Elize Johns-Ney
+3) Mathieu Blémy
+4) Parilus Mathieu
+5) Pierre Berlin
+6) Walter Sammuel Borgellas
+
+C'est avec plaisir que nous vous présentons ce projet JavaFx.
+
+Merci infiniment de nous avoir formés pour devenir des excellents programmeurs en Java.
